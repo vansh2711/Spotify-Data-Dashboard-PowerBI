@@ -42,10 +42,10 @@ This Power BI project visualizes insights from Spotify's Top 50 songs dataset, f
 ### Overview Page
 ![Overview Dashboard](./dashboard-screenshots/Overview.png)
 
-### Overview Page
+### Artist Page
 ![Overview Dashboard](./dashboard-screenshots/Artist.png)
 
-### Overview Page
+### Songs Page
 ![Overview Dashboard](./dashboard-screenshots/Songs.png)
 
 ---
