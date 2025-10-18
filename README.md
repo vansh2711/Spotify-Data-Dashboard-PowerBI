@@ -62,4 +62,7 @@ This Power BI project visualizes insights from Spotify's Top 50 songs dataset, f
 - Album-type distribution skews heavily toward singles.
 - Popularity fluctuates across months with a strong upward trend in Q4.
 
+---
+
+⭐ *If you liked this project, don’t forget to give it a star on GitHub!*
 
